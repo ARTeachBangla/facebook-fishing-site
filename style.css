@@ -1,0 +1,101 @@
+.center {
+text-align:center;
+}
+
+form {
+margin-left:5%;margin-right:5%;
+line-height:45px;
+}
+
+#login {
+background-color:#1877f2;
+border:none;color:white;
+font-weight:bold;padding:4%;
+border-radius:5px;width:101%;
+}
+
+input {
+width:100%;
+}
+
+input:focus {
+outline:none;
+}
+
+.input {
+background-color:#f5f6f7;
+padding-top:4%;padding-bottom:4%;
+border-radius:5px;border:1px solid #dddddd;
+padding-left:5%;width:95%;
+color:#757575;
+}
+
+#fb{
+color:#0077ff;font-size:170%;
+font-family:;
+}
+
+#left {
+float:left;width:40%;
+background-color:#dddfe3;
+color:#cccccc;
+border:1px solid #dddfe3;
+}
+
+#right {
+float:right;width:40%;
+background-color:#dddfe3;
+color:#cccccc;
+border:1px solid #dddfe3;
+}
+
+a{
+text-decoration:none;
+}
+
+#new{
+color:white;font-weight:bold;
+padding:3%;background-color:#00a400;
+font-size:90%;border-radius:5px;
+}
+
+#forgot{
+font-size:80%;color:#7597c8;
+}
+
+.left {width:45%;
+float:left;text-align:center;
+line-height:18px;font-size:70%;
+}
+
+.right {
+width:45%;
+float:right;text-align:center;
+line-height:18px;font-size:70%;
+}
+
+#plus {
+background-color:white;
+color:#bbbbbb;font-weight:bold;
+border-color:#90acff;border-width:1px;
+}
+
+#inc {
+font-size:75%;color:grey;
+}
+
+.a {
+color:#576b96;
+}
+
+.a:{
+color:#bbbbbb;
+}
+
+a{
+color:#90949c;
+}
+
+.r{
+color:#4b4f56;
+}
